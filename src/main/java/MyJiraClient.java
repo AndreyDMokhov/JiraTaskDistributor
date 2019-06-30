@@ -33,6 +33,7 @@ public class MyJiraClient {
 
         JiraIssue issue = new JiraIssue();
         do {
+            inputData(issue, reader);
             createIssue(issue);
             System.out.println("Do you want to continue?(y/n)");
             String answer = reader.readLine();
