@@ -6,7 +6,7 @@ import java.util.Arrays;
 @AllArgsConstructor
 @Getter
 public enum Projects {
-   COFFEE_SHOP_COOL_TEAM_KEY("CT"), //ID 10503
+    COFFEE_SHOP_COOL_TEAM_KEY("CT"), //ID 10503
     COFFEE_SHOP_JAVA_BEANS_TEAM_KEY("JBT"), //ID 10502
     COFFEE_SHOP_JOYTEAM_KEY("JT"), //ID 10504
     COFFEE_SHOP_UP_AND_GO_KEY("UAG"),//ID 10501

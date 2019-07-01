@@ -12,6 +12,7 @@ public class JiraIssue {
 
     private String issueKey;
     private Long issueType;
+    private String epicName;
     private String issueSummary;
     private String issueDescription;
 
