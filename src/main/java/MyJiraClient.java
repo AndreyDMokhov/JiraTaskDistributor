@@ -12,8 +12,8 @@ import java.net.URI;
 
 public class MyJiraClient {
 
-    private static final String USER_NAME = "andreydmokhov";
-    private static final String PASSWORD = "Oksana76";
+    private static final String USER_NAME = "USERNAME";
+    private static final String PASSWORD = "PASSWORD";
     private static final String JIRA_URL = "http://jira.tel-ran.net";
 
 
